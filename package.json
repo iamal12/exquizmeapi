@@ -4,9 +4,10 @@
   "description": "It is a backend for a coffee shop application.",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Vaibhav Jadhav",
+  "author": "Amal",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
